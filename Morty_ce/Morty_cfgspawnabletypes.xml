@@ -14,7 +14,7 @@
 			<item name="Mag_STANAG_30Rnd" chance="0.33" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="M4_OEBttstck" chance="0.33" />
+			<item name="M4_OEBttstck" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="TTCSR25">
@@ -41,7 +41,7 @@
 	</type>
 	<type name="TTCSR25_OD">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock2" chance="0.33" />
+			<item name="TTC_Buttstock2" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="0.33" />
@@ -52,7 +52,7 @@
 	</type>
 	<type name="TTCSR25_Snow">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock2" chance="0.33" />
+			<item name="TTC_Buttstock2" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="0.33" />
@@ -68,7 +68,7 @@
 	</type>
 	<type name="TTC_HK416Tan">
 		<attachments chance="1.00">
-			<item name="M4_OEBttstck" chance="0.33" />
+			<item name="M4_OEBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="0.33" />
@@ -79,7 +79,7 @@
 	</type>
 	<type name="TTC_HK416OD">
 		<attachments chance="1.00">
-			<item name="M4_OEBttstck" chance="0.33" />
+			<item name="M4_OEBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="0.33" />
@@ -90,7 +90,7 @@
 	</type>
 	<type name="TTC_HK416Black">
 		<attachments chance="1.00">
-			<item name="M4_OEBttstck" chance="0.33" />
+			<item name="M4_OEBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="0.33" />
@@ -149,10 +149,10 @@
 	</type>
 	<type name="TTC_M4DMR">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock3" chance="0.33" />
+			<item name="TTC_Buttstock3" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="TTC_DMR_Hndguard" chance="0.33" />
+			<item name="TTC_DMR_Hndguard" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="0.33" />
@@ -163,10 +163,10 @@
 	</type>
 	<type name="TTC_M4DMROD">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock3" chance="0.33" />
+			<item name="TTC_Buttstock3" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="TTC_DMR_HndguardOD" chance="0.33" />
+			<item name="TTC_DMR_Hndguard" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="0.33" />
@@ -177,10 +177,10 @@
 	</type>
 	<type name="TTC_M4DMRDesert">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock3" chance="0.33" />
+			<item name="TTC_Buttstock3" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="TTC_DMR_HndguardDesert" chance="0.33" />
+			<item name="TTC_DMR_HndguardDesert" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="0.33" />
@@ -200,7 +200,7 @@
 	</type>
 	<type name="TTC_AACHoney">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock_Honey" chance="0.33" />
+			<item name="TTC_Buttstock_Honey" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="0.33" />
@@ -214,7 +214,7 @@
 	</type>
 	<type name="TTC_AACHoney_B">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock_Honey" chance="0.33" />
+			<item name="TTC_Buttstock_Honey" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="0.33" />
@@ -228,7 +228,7 @@
 	</type>
 	<type name="TTC_AACHoney_300blk">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock_Honey" chance="0.33" />
+			<item name="TTC_Buttstock_Honey" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="0.33" />
@@ -242,7 +242,7 @@
 	</type>
 	<type name="TTC_AACHoney_300blk_B">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock_Honey" chance="0.33" />
+			<item name="TTC_Buttstock_Honey" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="0.33" />
@@ -388,7 +388,7 @@
 	</type>
 	<type name="TTC_M4Tac">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock_Morty" chance="0.33" />
+			<item name="TTC_Buttstock_Morty" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="0.33" />
@@ -399,7 +399,7 @@
 	</type>
 	<type name="TTC_HKG28">
 		<attachments chance="1.00">
-			<item name="TTC_ButtstockHK" chance="0.33" />
+			<item name="TTC_ButtstockHK" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TTC_G28_Optic" chance="0.33" />
@@ -422,7 +422,7 @@
 	</type>
 	<type name="TTC_AK12_Worn">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock_AK12" chance="0.33" />
+			<item name="TTC_Buttstock_AK12" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="0.33" />
@@ -462,10 +462,13 @@
 	</type>
 	<type name="TTC_HK417">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock2" chance="0.33" />
+			<item name="TTC_Buttstock2" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TTC_Holo" chance="0.33" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TTC_HAMR" chance="0.13" />
 		</attachments>
 		<attachments chance="0.60">
 			<item name="TTC_HK417_Magazine_20rnd" chance="0.33" />
@@ -513,10 +516,10 @@
 	</type>
 	<type name="TTC_FAL">
 		<attachments chance="1.00">
-			<item name="TTC_FAL_Poly_Hndgrd" chance="0.33" />
+			<item name="TTC_FAL_Poly_Hndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="TTC_FAL_Wood_Bttstck" chance="0.33" />
+			<item name="TTC_FAL_Wood_Bttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TTC_Holo" chance="0.33" />
@@ -573,10 +576,10 @@
 	</type>
 	<type name="TTC_CAR15">
 		<attachments chance="1.00">
-			<item name="M4_OEBttstck" chance="0.33" />
+			<item name="M4_OEBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="M4_PlasticHndgrd" chance="0.33" />
+			<item name="M4_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TTC_Aimpoint2000" chance="0.33" />
@@ -587,7 +590,7 @@
 	</type>
 	<type name="TTC_MCX">
 		<attachments chance="1.00">
-			<item name="TTC_MPXMCX1_Bttstck" chance="0.33" />
+			<item name="TTC_MPXMCX1_Bttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TTC_Holo" chance="0.33" />
@@ -598,7 +601,7 @@
 	</type>
 	<type name="TTC_MCX_300blk">
 		<attachments chance="1.00">
-			<item name="TTC_MPXMCX1_Bttstck" chance="0.33" />
+			<item name="TTC_MPXMCX1_Bttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TTC_Holo" chance="0.33" />
@@ -609,34 +612,34 @@
 	</type>
 	<type name="TTC_AKM">
 		<attachments chance="0.60">
-			<item name="AK74_WoodBttstck" chance="0.30" />
+			<item name="AK74_WoodBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK_FoldingBttstck" chance="0.30" />
+			<item name="AK_FoldingBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK_PlasticBttstck" chance="0.30" />
+			<item name="AK_PlasticBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AKS74U_Bttstck" chance="0.30" />
+			<item name="AKS74U_Bttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AKS74U_Bttstck" chance="0.30" />
+			<item name="AKS74U_Bttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK74_Hndgrd" chance="0.30" />
+			<item name="AK74_Hndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK_RailHndgrd" chance="0.30" />
+			<item name="AK_RailHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="AK_PlasticHndgrd" chance="0.30" />
+			<item name="AK_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AK_WoodBttstck" chance="0.33" />
+			<item name="AK_WoodBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AK_WoodHndgrd" chance="0.33" />
+			<item name="AK_WoodHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
 			<item name="AK_Suppressor" chance="0.20" />
@@ -682,7 +685,7 @@
 	</type>
 	<type name="TTC_MPX">
 		<attachments chance="1.00">
-			<item name="TTC_MPXMCX2_Bttstck" chance="0.33" />
+			<item name="TTC_MPXMCX2_Bttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TTC_Holo" chance="0.33" />
@@ -727,10 +730,10 @@
 	<!-- Update 1.13.5 -->
 	<type name="TTC_M4DMRSNOW">
 		<attachments chance="1.00">
-			<item name="TTC_Buttstock3" chance="0.33" />
+			<item name="TTC_Buttstock3" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="TTC_DMR_HndguardSnow" chance="0.33" />
+			<item name="TTC_DMR_HndguardSnow" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="0.33" />
